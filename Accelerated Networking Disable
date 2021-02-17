@@ -1,0 +1,2 @@
+az account set --subscription <SubscriptionName>
+az network nic update --name <NICName> --resource-group <RGName> --accelerated-networking <False or true>
